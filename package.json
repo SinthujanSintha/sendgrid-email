@@ -1,0 +1,14 @@
+{
+  "name": "sendgrid-email",
+  "version": "1.0.0",
+  "description": "this is the small example for how to use sendgrid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sinthujan",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.7"
+  }
+}
